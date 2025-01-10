@@ -37,7 +37,7 @@ Make sure you have Python installed and the following libraries available:
 3. **Install required libraries**:
    ```bash
    pip install -r requirements.txt
-4.**Run the script**
+4. **Run the script**
 
 
 ## Results
